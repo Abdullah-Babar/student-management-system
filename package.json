@@ -1,0 +1,16 @@
+{
+  "name": "abd994-student-management-system",
+  "version": "1.0.0",
+  "description": "This is my student management system using typescript, inquirer and node.js",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdullah Babar",
+  "license": "MIT",
+  "dependencies": {
+    "@inquirer/prompts": "^5.3.8"
+  }
+}
